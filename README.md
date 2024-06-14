@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
+GITHUB_ACTIVITY:{"rows": 5, "raw": true}
 
-<!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
+GITHUB_REPOS:{"rows": 4, "raw": true}
